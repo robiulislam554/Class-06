@@ -1,0 +1,41 @@
+
+
+<form action="" method=""></form> use for submit
+
+<label for="">type your option name you want</label>
+
+<input type="text" for name,address, 
+placeholder="Enter your name" name="" id="" value="">
+
+<input type="tel"  for phone number
+placeholder="Enter your mobile number" name="" id="" value="">
+
+<input type="email"  for email address
+placeholder="Enter your email" name="" id="" value="">
+
+<input type="password"  for password
+placeholder="Enter your name password" name="" id="" value="">
+
+<input type="number"  for only number 
+placeholder="Enter your age in digit" name="" id="" value="">
+
+<input type="date" for date format
+no needed to add placeholder , only name" name="" id="" value="">
+
+<input type="radio" (for gender) name="a" value="" id="">
+
+<input type="checkbox" (use for multiple option select) name="a" value="" id="">
+
+<input type="file" name="" id="" value=""> for add image file
+
+            <label for="">Blood Group:</label>
+            <select>
+                <option value="">A+</option>
+                <option value="">A-</option>
+                <option value="">B+</option>
+                <option value="">B-</option>
+                <option value="">AB+</option>
+                <option value="">AB-</option>
+                <option value="">O+</option>
+                <option value="">O-</option>
+            </select>
